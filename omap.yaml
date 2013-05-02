@@ -1,0 +1,32 @@
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: size, value: '[width=230,height=70]'}
+    - {name: title, value: Main Window}
+    - {name: component.class.simpleName, value: JFrame}
+    - {name: name, value: frame0}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: accessibleContext.accessibleName, value: Main Window}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: Main Window}
+    containerTitles: [Main Window]
+    fileName: Main Window_3517901257498947071.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: size, value: '[width=858,height=720]'}
+    - {name: title, value: Word Viewer Window}
+    - {name: component.class.simpleName, value: JFrame}
+    - {name: name, value: frame1}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: accessibleContext.accessibleName, value: Word Viewer Window}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: Word Viewer Window}
+    containerTitles: [Word Viewer Window]
+    fileName: Word Viewer Window_3562286206820366787.yaml

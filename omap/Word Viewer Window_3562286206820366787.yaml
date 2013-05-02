@@ -1,0 +1,38 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Select All}
+    - {method: equals, name: type, value: JButton}
+    generalProperties:
+    - {name: position, value: '[x=294,y=35]'}
+    - {name: accessibleName, value: Select All}
+    - {name: cText, value: Select All}
+    - {name: type, value: JButton}
+    - {name: accessibleContext.accessibleName, value: Select All}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=87,height=26]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: actionCommand, value: Select All}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: buttonText, value: Select All}
+    name: Select All
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Copy}
+    - {method: equals, name: type, value: JButton}
+    generalProperties:
+    - {name: position, value: '[x=386,y=35]'}
+    - {name: accessibleName, value: Copy}
+    - {name: cText, value: Copy}
+    - {name: type, value: JButton}
+    - {name: accessibleContext.accessibleName, value: Copy}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=62,height=26]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: actionCommand, value: Copy}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: buttonText, value: Copy}
+    name: Copy

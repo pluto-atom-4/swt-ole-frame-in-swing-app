@@ -1,0 +1,91 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Launch Browswer}
+    - {method: equals, name: type, value: JButton}
+    generalProperties:
+    - {name: position, value: '[x=83,y=35]'}
+    - {name: accessibleName, value: Launch Browswer}
+    - {name: cText, value: Launch Browswer}
+    - {name: type, value: JButton}
+    - {name: accessibleContext.accessibleName, value: Launch Browswer}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=138,height=26]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: actionCommand, value: Launch Browswer}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: buttonText, value: Launch Browswer}
+    name: Launch Browswer
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: indexOfType, value: '0'}
+    generalProperties:
+    - {name: position, value: '[x=9,y=38]'}
+    - {name: cText, value: A JTextField}
+    - {name: type, value: JTextField}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=69,height=20]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JTextField}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    name: JTextField_0
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Launch Browser}
+    - {method: equals, name: type, value: JButton}
+    generalProperties:
+    - {name: position, value: '[x=83,y=35]'}
+    - {name: accessibleName, value: Launch Browser}
+    - {name: cText, value: Launch Browser}
+    - {name: type, value: JButton}
+    - {name: accessibleContext.accessibleName, value: Launch Browser}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=128,height=26]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: actionCommand, value: Launch Browser}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: buttonText, value: Launch Browser}
+    name: Launch Browser
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Tool}
+    - {method: equals, name: type, value: JMenu}
+    generalProperties:
+    - {name: position, value: '[x=4,y=30]'}
+    - {name: accessibleName, value: Tool}
+    - {name: cText, value: Tool}
+    - {name: type, value: JMenu}
+    - {name: accessibleContext.accessibleName, value: Tool}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JMenu}
+    - {name: size, value: '[width=37,height=21]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JMenu}
+    - {name: actionCommand, value: Tool}
+    - {name: component.class.name, value: javax.swing.JMenu}
+    - {name: buttonText, value: Tool}
+    name: Tool
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Open Word Viewer}
+    - {method: equals, name: type, value: JMenuItem}
+    generalProperties:
+    - {name: position, value: '[x=5,y=54]'}
+    - {name: accessibleName, value: Open Word Viewer}
+    - {name: cText, value: Open Word Viewer}
+    - {name: type, value: JMenuItem}
+    - {name: accessibleContext.accessibleName, value: Open Word Viewer}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JMenuItem}
+    - {name: size, value: '[width=127,height=21]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JMenuItem}
+    - {name: actionCommand, value: Open Word Viewer}
+    - {name: component.class.name, value: javax.swing.JMenuItem}
+    - {name: buttonText, value: Open Word Viewer}
+    name: Open Word Viewer
